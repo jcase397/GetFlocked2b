@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GetFlocked2</string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="agility">Agility</string>
+    <string name="begin">Begin</string>
+    <string name="center">Center</string>
+    <string name="east">East</string>
+    <string name="size">Size</string>
+    <string name="speed">Speed</string>
+    <string name="textview">TextView</string>
+    <string name="west">West</string>
+</resources>
